@@ -7,12 +7,12 @@
 
 <hr>
 
-<div style="width: 100%; display: flex; flex-flow: row nowrap; justify-content: center; gap: 8px;">
-    [<img width="32" height="32" src="https://cdn.simpleicons.org/vk/black/white">](https://vk.com/nonkus)
-    <span> </span>
-    [<img width="32" height="32" src="https://cdn.simpleicons.org/discord/black/white">](https://discord.com/users/268677450144153611)
-    <span> </span>
-    [<img width="32" height="32" src="https://cdn.simpleicons.org/gmail/black/white">](mailto:me@nonk.dev)
+<div align="center">
+    <a href="https://vk.com/nonkus"><img width="32" height="32" src="https://cdn.simpleicons.org/vk/black/white"></a>
+    &nbsp;
+    <a href="https://discord.com/users/268677450144153611"><img width="32" height="32" src="https://cdn.simpleicons.org/discord/black/white"></a>
+    &nbsp;
+    <a href="mailto:me@nonk.dev"><img width="32" height="32" src="https://cdn.simpleicons.org/gmail/black/white"></a>
 </div>
 
 <hr>
