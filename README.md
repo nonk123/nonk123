@@ -29,6 +29,12 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api?username=nonk123&show-icons=true&hide=prs&theme=transparent">
+        <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nonk123&show-icons=true&hide=prs&theme=transparent">
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonk123&show-icons=true&hide=prs&theme=transparent">
     </a>
 </div>
