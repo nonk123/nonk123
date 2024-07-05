@@ -6,8 +6,6 @@
     </h1>
 </div>
 
-<hr>
-
 <div align="center">
     <a href="https://vk.com/nonkus"><img width="32" height="32" src="https://cdn.simpleicons.org/vk/black/white"></a>
     &nbsp;
