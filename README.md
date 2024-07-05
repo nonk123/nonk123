@@ -27,7 +27,7 @@
             <a href="https://git.io/streak-stats"><img alt="GitHub streak" width="400" src="https://streak-stats.demolab.com/?user=nonk123&theme=transparent&background=00000000&card_width=400"></a>
         </td>
         <td align="center" rowspan="2" style="border: none; background: transparent;">
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most used languages" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonk123&exclude_repo=PNEngine,ProjectNightmare,catspeak-lang,gzdoom,kakoune-lsp&show-icons=true&theme=transparent&card_width=200&langs_count=10"></a>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most used languages" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonk123&exclude_repo=PNEngine,ProjectNightmare,catspeak-lang,gzdoom,kakoune-lsp&show-icons=true&theme=transparent&card_width=280&langs_count=12&layout=pie"></a>
         </td>
     </tr>
     <tr style="border: none; background: transparent;">
