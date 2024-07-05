@@ -1,6 +1,7 @@
 <div align="center">
-    <h1 style="display: flex; flex-flow: row nowrap; justify-content: center; gap: 16px; border-bottom: none;">
+    <h1>
         <img width="32" height="32" src="assets/mars.png">
+        &nbsp;
         <span>nonk is here to help!</span>
     </h1>
 </div>
