@@ -14,3 +14,7 @@
 </div>
 
 **<div align="center">Also check out my website: <https://nonk.dev/></div>**
+
+<div align="center">
+    <a href="https://git.io/streak-stats"><img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=nonk123&theme=dark&background=000000"></a>
+</div>
