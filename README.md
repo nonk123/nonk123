@@ -23,12 +23,12 @@
 
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=nonk123&theme=dark&background=000000">
+        <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=nonk123&theme=transparent&background=00000000">
     </a>
 </div>
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api?username=nonk123&show-icons=true&hide=prs&theme=dark">
+        <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api?username=nonk123&show-icons=true&hide=prs&theme=transparent">
     </a>
 </div>
