@@ -19,7 +19,7 @@
     </a>
 </div>
 
-**<div align="center">Also check out my website: <https://nonk.dev/></div>**
+**<div align="center">Also check out my website: <https://nonk.dev></div>**
 
 <table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr style="border: none; background: transparent;">
