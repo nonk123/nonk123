@@ -21,20 +21,18 @@
 
 **<div align="center">Also check out my website: <https://nonk.dev/></div>**
 
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=nonk123&theme=transparent&background=00000000">
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nonk123&hide=prs&theme=transparent">
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonk123&show-icons=true&hide=prs&theme=transparent">
-    </a>
-</div>
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://git.io/streak-stats"><img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=nonk123&theme=transparent&background=00000000"></a>
+        </td>
+        <td rowspan="2">
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonk123&show-icons=true&hide=prs&theme=transparent"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nonk123&hide=prs&theme=transparent"></a>
+        </td>
+    </tr>
+</table>
