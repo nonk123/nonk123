@@ -32,7 +32,9 @@
             </a>
         </td>
     </tr>
-    <tr></tr>
+    <tr>
+        <td align="center"><br></td>
+    </tr>
     <tr>
         <td align="center">
             <a href="https://github.com/anuraghazra/github-readme-stats">
