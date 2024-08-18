@@ -5,20 +5,6 @@
     </h1>
 </div>
 
-<div align="center">
-    <a href="https://vk.com/nonkus">
-        <img width="32" height="32" src="https://cdn.simpleicons.org/vk/black/white">
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/268677450144153611">
-        <img width="32" height="32" src="https://cdn.simpleicons.org/discord/black/white">
-    </a>
-    &nbsp;
-    <a href="mailto:me@nonk.dev">
-        <img width="32" height="32" src="https://cdn.simpleicons.org/gmail/black/white">
-    </a>
-</div>
-
 **<div align="center">Also check out my website: <https://nonk.dev></div>**
 
 <table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
@@ -38,7 +24,7 @@
     <tr>
         <td align="center">
             <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img alt="GitHub stats" width="400" src="https://github-readme-stats.vercel.app/api/?username=nonk123&exclude_repo=PNEngine,ProjectNightmare,catspeak-lang,gzdoom,kakoune-lsp&theme=transparent&card_width=400">
+                <img alt="GitHub stats" width="400" src="https://github-readme-stats.vercel.app/api/?username=nonk123&custom_title=My+GitHub+Stats&exclude_repo=PNEngine,ProjectNightmare,catspeak-lang,gzdoom,kakoune-lsp&theme=transparent&card_width=400">
             </a>
         </td>
     </tr>
