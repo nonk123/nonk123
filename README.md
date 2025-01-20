@@ -25,7 +25,7 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://git.io/streak-stats"><img alt="GitHub streak" width="400" src="https://streak-stats.demolab.com/?user=nonk123&theme=transparent&background=00000000&card_width=400"></a>
+            <a href="https://git.io/streak-stats"><img alt="GitHub streak" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=nonk123&theme=transparent&background=00000000&card_width=400"></a>
         </td>
     </tr>
 </table>
