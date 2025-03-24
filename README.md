@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img width="32" height="32" src="assets/mars.png">
+        <img width="32" height="32" src="assets/mars.avif">
         <span>nonk is here to help!</span>
     </h1>
 </div>
