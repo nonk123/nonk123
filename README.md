@@ -1,7 +1,7 @@
 <div align="center">
     <h1>
-        <img width="32" height="32" src="assets/mars.avif">
-        <span>nonk is here to help!</span>
+        <a href="https://nonk.dev"><img width="32" height="32" src="assets/mars.avif"></a>
+        nonk is here to help!
     </h1>
 </div>
 
