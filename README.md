@@ -9,7 +9,7 @@
     <tr>
         <td align="center" rowspan="3">
             <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img alt="Most used languages" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonk123&exclude_repo=PNEngine,ProjectNightmare,catspeak-lang&show-icons=true&theme=transparent&card_width=300&langs_count=8&layout=pie">
+                <img alt="Most used languages" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonk123&exclude_repo=PNEngine,ProjectNightmare,catspeak-lang&show-icons=true&theme=transparent&card_width=300&langs_count=10&layout=pie">
             </a>
         </td>
         <td align="center">
